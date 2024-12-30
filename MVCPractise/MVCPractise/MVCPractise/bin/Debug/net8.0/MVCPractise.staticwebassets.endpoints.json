@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "MVCPractise.fvvbndmee4.styles.css",
+      "AssetFile": "MVCPractise.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GyFhvE/9zBVboGzqp5+QItegB5NGxeLA6EmEWiJPSsM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 04:13:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fvvbndmee4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GyFhvE/9zBVboGzqp5+QItegB5NGxeLA6EmEWiJPSsM="
+        },
+        {
+          "Name": "label",
+          "Value": "MVCPractise.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "MVCPractise.styles.css",
+      "AssetFile": "MVCPractise.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GyFhvE/9zBVboGzqp5+QItegB5NGxeLA6EmEWiJPSsM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 04:13:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GyFhvE/9zBVboGzqp5+QItegB5NGxeLA6EmEWiJPSsM="
+        }
+      ]
+    }
+  ]
+}

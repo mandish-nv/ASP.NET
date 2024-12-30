@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/MVCPractise/MVCPractise.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MVCPractise.fvvbndmee4.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GyFhvE/9zBVboGzqp5\u002BQItegB5NGxeLA6EmEWiJPSsM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1129"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022GyFhvE/9zBVboGzqp5\u002BQItegB5NGxeLA6EmEWiJPSsM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Dec 2024 04:13:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVCPractise/MVCPractise.fvvbndmee4.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MVCPractise.fvvbndmee4.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fvvbndmee4"},{"Name":"integrity","Value":"sha256-GyFhvE/9zBVboGzqp5\u002BQItegB5NGxeLA6EmEWiJPSsM="},{"Name":"label","Value":"_content/MVCPractise/MVCPractise.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1129"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022GyFhvE/9zBVboGzqp5\u002BQItegB5NGxeLA6EmEWiJPSsM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Dec 2024 04:13:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

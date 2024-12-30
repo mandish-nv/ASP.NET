@@ -1,0 +1,14 @@
+﻿@model EFCoreNCCSB.Models.UpdateStudent
+<form action="Edit" method="post">
+    <label>Id</label>
+    <input type="text" asp-for="Id" readonly/><br />
+    <label>Name</label>
+    <input type="text" asp-for="Name" /><br />
+    <label>Gender</label>
+    <input type="text" asp-for="Gender" /><br />
+    <label>Faculty</label>
+    <input type="text" asp-for="Faculty" /><br />
+    <label>Fee</label>
+    <input type="text" asp-for="Fee" /><br />
+    <input type="submit" name="submit" value="Edit" />
+</form>

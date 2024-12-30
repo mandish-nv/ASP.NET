@@ -1,0 +1,12 @@
+
+0101 Dairymilk Cadbury 185
+0102 Snickers Mars 140
+0103 5Star Cadbury 50
+0104 KitKat Nestle 125
+0201 Lay's PepsiCo 50
+0202 NepaliChips CG 50
+0203 PotatoChips Kwik's 60
+0301 Fanta Cocacola 240
+0302 Coke Cocacola 240
+0303 MountainDew PepsiCo 235
+0304 Pepsi PepsiCo 240

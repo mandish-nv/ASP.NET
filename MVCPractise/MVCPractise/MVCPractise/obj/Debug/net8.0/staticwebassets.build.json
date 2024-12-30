@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "Hash": "bV7zUT+FwDoqahHw7Sq7WLdh1BBy3uSJR+sfHux2N6k=",
+  "Source": "MVCPractise",
+  "BasePath": "_content/MVCPractise",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Dell\\source\\repos\\MVCPractise\\MVCPractise\\MVCPractise\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVCPractise.styles.css",
+      "SourceId": "MVCPractise",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\source\\repos\\MVCPractise\\MVCPractise\\MVCPractise\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/MVCPractise",
+      "RelativePath": "MVCPractise#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "fvvbndmee4",
+      "Integrity": "GyFhvE/9zBVboGzqp5+QItegB5NGxeLA6EmEWiJPSsM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\source\\repos\\MVCPractise\\MVCPractise\\MVCPractise\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVCPractise.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\source\\repos\\MVCPractise\\MVCPractise\\MVCPractise\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVCPractise.bundle.scp.css",
+      "SourceId": "MVCPractise",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\source\\repos\\MVCPractise\\MVCPractise\\MVCPractise\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/MVCPractise",
+      "RelativePath": "MVCPractise#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "fvvbndmee4",
+      "Integrity": "GyFhvE/9zBVboGzqp5+QItegB5NGxeLA6EmEWiJPSsM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\source\\repos\\MVCPractise\\MVCPractise\\MVCPractise\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVCPractise.bundle.scp.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "MVCPractise.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Dell\\source\\repos\\MVCPractise\\MVCPractise\\MVCPractise\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVCPractise.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GyFhvE/9zBVboGzqp5+QItegB5NGxeLA6EmEWiJPSsM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 04:13:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GyFhvE/9zBVboGzqp5+QItegB5NGxeLA6EmEWiJPSsM="
+        }
+      ]
+    },
+    {
+      "Route": "MVCPractise.fvvbndmee4.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Dell\\source\\repos\\MVCPractise\\MVCPractise\\MVCPractise\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVCPractise.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GyFhvE/9zBVboGzqp5+QItegB5NGxeLA6EmEWiJPSsM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 04:13:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fvvbndmee4"
+        },
+        {
+          "Name": "label",
+          "Value": "MVCPractise.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GyFhvE/9zBVboGzqp5+QItegB5NGxeLA6EmEWiJPSsM="
+        }
+      ]
+    },
+    {
+      "Route": "MVCPractise.fvvbndmee4.styles.css",
+      "AssetFile": "C:\\Users\\Dell\\source\\repos\\MVCPractise\\MVCPractise\\MVCPractise\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVCPractise.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GyFhvE/9zBVboGzqp5+QItegB5NGxeLA6EmEWiJPSsM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 04:13:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fvvbndmee4"
+        },
+        {
+          "Name": "label",
+          "Value": "MVCPractise.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GyFhvE/9zBVboGzqp5+QItegB5NGxeLA6EmEWiJPSsM="
+        }
+      ]
+    },
+    {
+      "Route": "MVCPractise.styles.css",
+      "AssetFile": "C:\\Users\\Dell\\source\\repos\\MVCPractise\\MVCPractise\\MVCPractise\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVCPractise.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GyFhvE/9zBVboGzqp5+QItegB5NGxeLA6EmEWiJPSsM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 04:13:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GyFhvE/9zBVboGzqp5+QItegB5NGxeLA6EmEWiJPSsM="
+        }
+      ]
+    }
+  ]
+}

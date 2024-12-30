@@ -1,0 +1,23 @@
+﻿@model List<EFCoreNCCSB.Models.Student>
+<h1>Welcome</h1>
+<table border="1">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Gender</th>
+        <th>Faculty</th>
+        <th>Fee</th>
+        <th colspan="2">Action</th>
+    </tr>
+    @foreach(var s1 in Model){
+        <tr>
+            <td>@s1.Id</td>
+            <td>@s1.Name</td>
+            <td>@s1.Gender</td>
+            <td>@s1.Faculty</td>
+            <td>@s1.Fee</td>
+            <td><a href="Student/Edit/@s1.Id">Edit</a></td>
+            <td><a href="Student/Delete/@s1.Id">Delete</a></td>
+        </tr>
+    }
+</table>

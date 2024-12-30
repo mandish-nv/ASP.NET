@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\MVCPractise\\MVCPractise\\MVCPractise\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVCPractise.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MVCPractise.fvvbndmee4.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVCPractise.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVCPractise.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MVCPractise.props",
+      "PackagePath": "build\\MVCPractise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MVCPractise.props",
+      "PackagePath": "buildMultiTargeting\\MVCPractise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MVCPractise.props",
+      "PackagePath": "buildTransitive\\MVCPractise.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

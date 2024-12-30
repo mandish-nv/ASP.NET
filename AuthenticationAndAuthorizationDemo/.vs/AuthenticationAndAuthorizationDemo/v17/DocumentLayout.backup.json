@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\AuthenticationAndAuthorizationDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60AB9004-7FCE-47B9-AAE3-2B859F2B8AEE}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|c:\\users\\dell\\source\\repos\\authenticationandauthorizationdemo\\authenticationandauthorizationdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60AB9004-7FCE-47B9-AAE3-2B859F2B8AEE}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|solutionrelative:authenticationandauthorizationdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60AB9004-7FCE-47B9-AAE3-2B859F2B8AEE}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|c:\\users\\dell\\source\\repos\\authenticationandauthorizationdemo\\authenticationandauthorizationdemo\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60AB9004-7FCE-47B9-AAE3-2B859F2B8AEE}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|solutionrelative:authenticationandauthorizationdemo\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60AB9004-7FCE-47B9-AAE3-2B859F2B8AEE}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|c:\\users\\dell\\source\\repos\\authenticationandauthorizationdemo\\authenticationandauthorizationdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60AB9004-7FCE-47B9-AAE3-2B859F2B8AEE}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|solutionrelative:authenticationandauthorizationdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60AB9004-7FCE-47B9-AAE3-2B859F2B8AEE}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|c:\\users\\dell\\source\\repos\\authenticationandauthorizationdemo\\authenticationandauthorizationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60AB9004-7FCE-47B9-AAE3-2B859F2B8AEE}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|solutionrelative:authenticationandauthorizationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60AB9004-7FCE-47B9-AAE3-2B859F2B8AEE}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|c:\\users\\dell\\source\\repos\\authenticationandauthorizationdemo\\authenticationandauthorizationdemo\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60AB9004-7FCE-47B9-AAE3-2B859F2B8AEE}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|solutionrelative:authenticationandauthorizationdemo\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60AB9004-7FCE-47B9-AAE3-2B859F2B8AEE}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|c:\\users\\dell\\source\\repos\\authenticationandauthorizationdemo\\authenticationandauthorizationdemo\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60AB9004-7FCE-47B9-AAE3-2B859F2B8AEE}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|solutionrelative:authenticationandauthorizationdemo\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AuthenticationAndAuthorizationDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T06:03:39.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo\\Program.cs",
+              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo\\Program.cs",
+              "RelativeToolTip": "AuthenticationAndAuthorizationDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:59:46.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationDemo\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "AuthenticationAndAuthorizationDemo\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T05:41:44.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationDemo\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "AuthenticationAndAuthorizationDemo\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T05:37:51.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationDemo\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "AuthenticationAndAuthorizationDemo\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T05:36:55.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AuthenticationAndAuthorizationDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwEAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:31:43.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

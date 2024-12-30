@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSIT", "CSIT\CSIT.csproj", "{105499B7-FF86-4269-9EDC-9AF77168E87D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseExample", "DatabaseExample\DatabaseExample.csproj", "{4A732CF6-A411-456D-A151-BAC28D1496BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{105499B7-FF86-4269-9EDC-9AF77168E87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{105499B7-FF86-4269-9EDC-9AF77168E87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{105499B7-FF86-4269-9EDC-9AF77168E87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{105499B7-FF86-4269-9EDC-9AF77168E87D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A732CF6-A411-456D-A151-BAC28D1496BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A732CF6-A411-456D-A151-BAC28D1496BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A732CF6-A411-456D-A151-BAC28D1496BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A732CF6-A411-456D-A151-BAC28D1496BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43E275C6-26C1-4784-8378-84FEEF78F140}
+	EndGlobalSection
+EndGlobal

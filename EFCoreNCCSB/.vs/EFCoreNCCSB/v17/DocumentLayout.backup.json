@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\EFCoreNCCSB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9574FD73-D537-4EBC-9BA2-81CF504369D1}|EFCoreNCCSB\\EFCoreNCCSB.csproj|c:\\users\\dell\\source\\repos\\efcorenccsb\\efcorenccsb\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9574FD73-D537-4EBC-9BA2-81CF504369D1}|EFCoreNCCSB\\EFCoreNCCSB.csproj|solutionrelative:efcorenccsb\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9574FD73-D537-4EBC-9BA2-81CF504369D1}|EFCoreNCCSB\\EFCoreNCCSB.csproj|c:\\users\\dell\\source\\repos\\efcorenccsb\\efcorenccsb\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9574FD73-D537-4EBC-9BA2-81CF504369D1}|EFCoreNCCSB\\EFCoreNCCSB.csproj|solutionrelative:efcorenccsb\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9574FD73-D537-4EBC-9BA2-81CF504369D1}|EFCoreNCCSB\\EFCoreNCCSB.csproj|c:\\users\\dell\\source\\repos\\efcorenccsb\\efcorenccsb\\models\\updatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9574FD73-D537-4EBC-9BA2-81CF504369D1}|EFCoreNCCSB\\EFCoreNCCSB.csproj|solutionrelative:efcorenccsb\\models\\updatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9574FD73-D537-4EBC-9BA2-81CF504369D1}|EFCoreNCCSB\\EFCoreNCCSB.csproj|c:\\users\\dell\\source\\repos\\efcorenccsb\\efcorenccsb\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9574FD73-D537-4EBC-9BA2-81CF504369D1}|EFCoreNCCSB\\EFCoreNCCSB.csproj|solutionrelative:efcorenccsb\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9574FD73-D537-4EBC-9BA2-81CF504369D1}|EFCoreNCCSB\\EFCoreNCCSB.csproj|c:\\users\\dell\\source\\repos\\efcorenccsb\\efcorenccsb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9574FD73-D537-4EBC-9BA2-81CF504369D1}|EFCoreNCCSB\\EFCoreNCCSB.csproj|solutionrelative:efcorenccsb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9574FD73-D537-4EBC-9BA2-81CF504369D1}|EFCoreNCCSB\\EFCoreNCCSB.csproj|c:\\users\\dell\\source\\repos\\efcorenccsb\\efcorenccsb\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9574FD73-D537-4EBC-9BA2-81CF504369D1}|EFCoreNCCSB\\EFCoreNCCSB.csproj|solutionrelative:efcorenccsb\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EFCoreNCCSB\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "EFCoreNCCSB\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T08:19:12.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Models\\UpdateStudent.cs",
+              "RelativeDocumentMoniker": "EFCoreNCCSB\\Models\\UpdateStudent.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Models\\UpdateStudent.cs",
+              "RelativeToolTip": "EFCoreNCCSB\\Models\\UpdateStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:17:22.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "EFCoreNCCSB\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "EFCoreNCCSB\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T06:00:24.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "EFCoreNCCSB\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "EFCoreNCCSB\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAqwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:27:27.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreNCCSB\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Program.cs",
+              "RelativeToolTip": "EFCoreNCCSB\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:05:32.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Models\\StudentContext.cs",
+              "RelativeDocumentMoniker": "EFCoreNCCSB\\Models\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Models\\StudentContext.cs",
+              "RelativeToolTip": "EFCoreNCCSB\\Models\\StudentContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:56:14.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

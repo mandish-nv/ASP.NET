@@ -1,0 +1,14 @@
+﻿@* 
+in view, C# code can by embeded by using @ symbol which is known as razor syntax i.e @ symbol
+@*: comment
+@= single line statment
+@{} multi line statment
+in razor syntax, hmtl tag can by easily added
+*@
+@{
+	for(int i=1; i<10; i++){
+		<h2>@i</h2>
+	}
+	var name = "Atullya";
+}
+<h1>your name is @name</h1>
