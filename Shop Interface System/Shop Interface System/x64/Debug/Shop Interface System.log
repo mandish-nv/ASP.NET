@@ -1,3 +1,0 @@
-﻿  Shop Interface System.cpp
-C:\Users\Dell\source\repos\Shop Interface System\Shop Interface System\Shop Interface System.cpp(296,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Shop Interface System.vcxproj -> C:\Users\Dell\source\repos\Shop Interface System\x64\Debug\Shop Interface System.exe
