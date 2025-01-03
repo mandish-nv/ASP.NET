@@ -1,0 +1,10 @@
+﻿@model StateManagementDemo.Models.User
+<form action="CreateSession" method="post">
+    <label>Username</label>
+    <input type="text" asp-for="Username" /><br />
+    <label>Password</label>
+    <input type="text" asp-for="Password" /><br />
+    <button type="submit">SetSession</button>
+</form>
+
+@* https://localhost:7245/Session/CreateSession *@
