@@ -1,3 +1,3 @@
-﻿<Project>
+<Project>
   <Import Project="..\buildMultiTargeting\StateManagementDemo.props" />
 </Project>

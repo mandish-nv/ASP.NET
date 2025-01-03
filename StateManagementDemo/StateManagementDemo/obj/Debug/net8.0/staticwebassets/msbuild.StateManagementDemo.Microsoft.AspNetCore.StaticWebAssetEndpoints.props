@@ -1,4 +1,4 @@
-﻿<Project>
+<Project>
   <ItemGroup>
     <StaticWebAssetEndpoint Include="_content/StateManagementDemo/css/site.c2tiyv64ts.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>

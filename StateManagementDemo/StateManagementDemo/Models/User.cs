@@ -1,4 +1,4 @@
-﻿namespace StateManagementDemo.Models
+namespace StateManagementDemo.Models
 {
     public class User
     {
